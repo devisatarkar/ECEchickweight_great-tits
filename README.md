@@ -25,24 +25,24 @@ Code file 'computing ECEs.R' uses (1), (2), and (3)
 
 Code to compute the variables in this dataset is in the code file 'computing ECEs.R'. It contains the same columns from (1) and the following additional variables:
 
-hot_ece1_5: Number of hot ECEs (5% threshold) in hatchling period
-hot_ece2_5: Number of hot ECEs (5% threshold) in nestling period
-hot_ece1_1: Number of hot ECEs (1% threshold) in hatchling period
-hot_ece2_1: Number of hot ECEs (1% threshold) in nestling period
-cold_ece1_5: Number of cold ECEs (5% threshold) in hatchling period
-cold_ece2_5: Number of cold ECEs (5% threshold) in nestling period
-cold_ece1_1: Number of cold ECEs (1% threshold) in hatchling period
-cold_ece2_1: Number of cold ECEs (1% threshold) in nestling period
-rain_ece1_5: Number of rain ECEs (5% threshold) in hatchling period
-rain_ece2_5: Number of rain ECEs (5% threshold) in nestling period
-rain_ece1_1: Number of rain ECEs (1% threshold) in hatchling period
-rain_ece2_1: Number of rain ECEs (1% threshold) in nestling period
-average_temperature_per1: Average temperature during hatchling period
-average_temprange_per1: Average temperature range during hatchling period
-average_temperature_per2: Average temperature during nestling period
-average_temprange_per2: Average temperature range during nestling period
-average_rainfall_per1: Average rainfall during hatchling period
-average_rainfall_per2: Average rainfall during nestling period
+hot_ece1_5: Number of hot ECEs (5% threshold) in hatchling period <br/>
+hot_ece2_5: Number of hot ECEs (5% threshold) in nestling period <br/>
+hot_ece1_1: Number of hot ECEs (1% threshold) in hatchling period <br/>
+hot_ece2_1: Number of hot ECEs (1% threshold) in nestling period <br/>
+cold_ece1_5: Number of cold ECEs (5% threshold) in hatchling period <br/>
+cold_ece2_5: Number of cold ECEs (5% threshold) in nestling period<br/>
+cold_ece1_1: Number of cold ECEs (1% threshold) in hatchling period<br/>
+cold_ece2_1: Number of cold ECEs (1% threshold) in nestling period<br/>
+rain_ece1_5: Number of rain ECEs (5% threshold) in hatchling period<br/>
+rain_ece2_5: Number of rain ECEs (5% threshold) in nestling period<br/>
+rain_ece1_1: Number of rain ECEs (1% threshold) in hatchling period<br/>
+rain_ece2_1: Number of rain ECEs (1% threshold) in nestling period<br/>
+average_temperature_per1: Average temperature during hatchling period<br/>
+average_temprange_per1: Average temperature range during hatchling period<br/>
+average_temperature_per2: Average temperature during nestling period<br/>
+average_temprange_per2: Average temperature range during nestling period<br/>
+average_rainfall_per1: Average rainfall during hatchling period<br/>
+average_rainfall_per2: Average rainfall during nestling period<br/>
 
 Code file 'Fledging weight models.R' uses (4) for analysis. 
 
@@ -54,8 +54,7 @@ mean_ld: mean laying date of the population in given year
 relative_ld: difference between individual lay date and mean_ld
 local_recruitment: 0 (did not recruit) or 1 (recruited), whether the individual was recorded breeding in subsequent years
 
-Code file 'Local recruitment models.R' uses (5) for analysis. 
-
+Code file 'Local recruitment models.R' uses (5) for analysis. <br/>
 
 All models in the manuscript can be run and all figures can be reproduced from the scripts in 'Fledging weight models.R' and 'Local recruitment models.R'
-------------------------------------------------------------------------------------------------------
+
